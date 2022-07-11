@@ -38,7 +38,7 @@ cd nifi-1.16.3
 
 ### Step 4. Open NiFi in your browser.
 
-* In a browser, open http://localhost:8443/nifi
+* In a browser, open https://localhost:8443/nifi
 
 
 
